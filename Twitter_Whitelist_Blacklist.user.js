@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name        Twitter Whitelist/Blacklist
-// @namespace   http://fluidapp.com
 // @description Highlight or hide tweets containing specific words
 // @include     http://twitter.com/*
 // @include     https://twitter.com/*
