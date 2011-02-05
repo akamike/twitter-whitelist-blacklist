@@ -19,7 +19,8 @@
         'bunnies'
       ].join('|'), 'i'),
       blacklist = new RegExp([
-        'supercalifragilisticexpialidocious'
+        'supercalifragilisticexpialidocious',
+        'areallybadwordthatscaresyou'
       ].join('|'), 'i'),
       run = setInterval(processTweets, 2000),
       css = document.createElement('style');
